@@ -1,7 +1,7 @@
 ## Heya 👋  
   
 
-### <div align="center">I'm Pavel, full-stack developer turned DevOps, helping tech companies architecting their web platform in the cloud and building automation in their operations to set them up for success. I  geeks out on Terraform, AWS and cyber-security</div>  
+### <div align="center">I'm Pavel, full-stack developer turned DevOps, helping tech companies architecting their web platform in the cloud and building automation in their operations to set them up for success. I  geek out on Terraform, AWS and cyber-security</div>  
   
 
 - 🌱 I’m currently learning Chess
