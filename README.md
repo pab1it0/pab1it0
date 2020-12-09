@@ -59,7 +59,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pab1it0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=pab1it0&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
 
 <br/>  
 
