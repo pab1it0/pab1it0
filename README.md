@@ -65,8 +65,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [gauth – Two Factor Authenticator for the CLI enthusiasts](https://www.cloudefined.com/gauth-two-factor-authenticator-for-the-cli-enthusiasts/)
+- [Monitor your AWS Lighsail infrastructure](https://www.cloudefined.com/monitor-your-aws-lighsail-instances/)
+- [Blue/Green deployments with AWS Auto-Scaling Group and Terraform](https://www.cloudefined.com/aws-blue-green-deployments-with-auto-scaling-group-and-terraform/)
+- [Pulumi – IaC on steroids](https://www.cloudefined.com/pulumi-iac-on-steroids/)
+- [Zip AWS Lambda function on the fly](https://www.cloudefined.com/zip-aws-lambda-function-on-the-fly/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
