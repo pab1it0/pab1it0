@@ -1,5 +1,15 @@
-## Heya 👋  
-  
+Welcome to my litle tech space **warning**: bugs ahead, caution is adviced!
+
+## Github Stats  
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=pab1it0&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+
+<p align=center>
+  <img src="https://badges.pufler.dev/visits/shiryel/pab1it0?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=pab1it0" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpab1it0&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</p>
 
 ### <div align="center">I'm Pavel, full-stack developer turned DevOps, helping tech companies architecting their web platform in the cloud and building automation in their operations to set them up for success. I  geek out on Terraform, AWS and cyber-security</div>  
   
@@ -57,13 +67,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=pab1it0&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
-
-<br/>  
 
 
 ## Recent Blog Posts  
