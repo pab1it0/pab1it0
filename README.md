@@ -1,12 +1,11 @@
 Welcome to my litle tech space **warning**: bugs ahead, caution is adviced!
 
-## Github Stats  
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=pab1it0&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pab1it0&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pab1it0&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
 
 <p align=center>
-  <img src="https://badges.pufler.dev/visits/shiryel/pab1it0?color=black&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=pab1it0" />
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpab1it0&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
