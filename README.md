@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Chess
   
 
-- ❓ Ask me about anything related to Kubernetes and related technologies  
+- ❓ Ask me about anything related to Kubernetes and infrastructure automation 
   
 
 - ⚡ Fun fact: I prefer Zsh over Bash  
