@@ -1,4 +1,4 @@
-Welcome to my litle tech space **warning**: bugs ahead, caution is adviced!
+Welcome to my litle tech space :) **warning**: bugs ahead, caution is adviced!
 
 <p align=center>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pab1it0&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
