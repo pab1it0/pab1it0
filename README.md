@@ -59,11 +59,11 @@ Welcome to my litle tech space 👋🏻 **warning**: bugs ahead, caution is advi
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [High Scale Web Server With Kubernetes – Part II](https://www.cloudefined.com/high-scale-web-server-with-kubernetes-part-ii/)
 - [High Scale Web Server With Kubernetes](https://www.cloudefined.com/high-scale-web-server-with-kubernetes/)
 - [gauth – Two Factor Authenticator for the CLI enthusiasts](https://www.cloudefined.com/gauth-two-factor-authenticator-for-the-cli-enthusiasts/)
 - [Monitor your AWS Lighsail infrastructure](https://www.cloudefined.com/monitor-your-aws-lighsail-instances/)
 - [Blue/Green deployments with AWS Auto-Scaling Group and Terraform](https://www.cloudefined.com/aws-blue-green-deployments-with-auto-scaling-group-and-terraform/)
-- [Pulumi – IaC on steroids](https://www.cloudefined.com/pulumi-iac-on-steroids/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
