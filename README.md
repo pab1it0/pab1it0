@@ -61,11 +61,11 @@ Welcome to my little tech space 👋🏻
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing AI Development: The Impact of Model Context Protocol &lpar;MCP&rpar;](https://www.cloudefined.com/blog/revolutionizing-ai-development-the-impact-of-model-context-protocol-mcp)
 - [7 Rules for Designing a Captivating Presentation](https://www.cloudefined.com/blog/7-rules-for-designing-a-captivating-presentation)
 - [High Scale Web Server With Kubernetes – Part II](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes-part-ii)
 - [High Scale Web Server With Kubernetes](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes)
 - [gauth – Two Factor Authenticator for the CLI enthusiasts](https://www.cloudefined.com/blog/gauth-two-factor-authenticator-for-the-cli-enthusiasts)
-- [Monitor your AWS Lightsail infrastructure](https://www.cloudefined.com/blog/monitor-your-aws-lighsail-instances)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
