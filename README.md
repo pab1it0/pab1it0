@@ -61,11 +61,11 @@ Welcome to my little tech space 👋🏻
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Agent2Agent &lpar;A2A&rpar; Protocol: Revolutionizing AI Collaboration](https://www.cloudefined.com/blog/googles-agent2agent-a2a-protocol-revolutionizing-ai-collaboration)
 - [Revolutionizing AI Development: The Impact of Model Context Protocol &lpar;MCP&rpar;](https://www.cloudefined.com/blog/revolutionizing-ai-development-the-impact-of-model-context-protocol-mcp)
 - [7 Rules for Designing a Captivating Presentation](https://www.cloudefined.com/blog/7-rules-for-designing-a-captivating-presentation)
 - [High Scale Web Server With Kubernetes – Part II](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes-part-ii)
 - [High Scale Web Server With Kubernetes](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes)
-- [gauth – Two Factor Authenticator for the CLI enthusiasts](https://www.cloudefined.com/blog/gauth-two-factor-authenticator-for-the-cli-enthusiasts)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
