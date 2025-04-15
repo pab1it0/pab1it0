@@ -1,6 +1,6 @@
-Welcome to my little tech space 👋🏻
-<br>
-**warning**: bugs ahead, caution is adviced! 🐞 🐜 🦟 🦗 🕷
+# Hi there, I'm pab1it0 👋🏻
+
+Welcome to my tech space where infrastructure meets AI! I'm passionate about bridging the gap between robust cloud architecture and emerging AI technologies.
 
 <p align=center>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pab1it0&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
@@ -11,20 +11,36 @@ Welcome to my little tech space 👋🏻
   <img src="https://komarev.com/ghpvc/?username=pab1it0" />
 </p>
 
-### <div align="center">I'm Pavel, full-stack developer turned DevOps, helping tech companies architecting their web platform in the cloud and building automation in their operations to set them up for success. I  geek out on Terraform, AWS and cyber-security</div>  
-  
+## 🤖 AI & Agent Technologies Enthusiasm
 
-- 🌱 I’m currently learning Chess
-  
+I'm deeply excited about the future of AI agent collaboration and have been actively exploring:
 
-- ❓ Ask me about anything related to Kubernetes and infrastructure automation 
-  
+- **Model Context Protocol (MCP)** - Building tools that allow AI assistants to interact with databases and services through standardized interfaces
+- **Agent2Agent (A2A)** - Exploring how multiple specialized AI agents can collaborate to solve complex problems
+- **Multi-modal AI interactions** - Creating systems where AI can process and respond to various data formats
 
-- ⚡ Fun fact: I prefer Zsh over Bash  
-  
+## 🛠️ What I Do
 
-<br/>  
+I'm a full-stack developer turned DevOps engineer, helping tech companies architect their web platforms in the cloud and build automation in their operations. I specialize in:
 
+- Cloud-native architectures on AWS and Azure
+- Kubernetes orchestration
+- Infrastructure as Code with Terraform
+- Cybersecurity best practices
+- AI service integration
+
+## 🔍 Current Focus
+
+- Developing MCP-compatible services to extend AI capabilities
+- Exploring agent collaboration frameworks
+- Integrating AI into DevOps workflows
+- Learning Chess ♟️
+
+## 💬 Let's Connect
+
+- ❓ Ask me about anything related to Kubernetes, infrastructure automation, or AI agent technologies
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavelshklovsky/) or [Twitter](https://twitter.com/pab1it0)
+- ⚡ Fun fact: I prefer Zsh over Bash
 
 ## Languages and Tools  
 <div align="center">  
@@ -49,20 +65,24 @@ Welcome to my little tech space 👋🏻
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="75" />  
-</div>  
+</div>
 
-<br/>  
-  
+## 🤝 Open for Collaboration
 
-<br/>  
+I'm particularly interested in collaborating on projects related to:
+- AI agent frameworks and protocols
+- MCP implementations for various services
+- Infrastructure solutions for AI workloads
+- Agent orchestration systems
 
+Reach out if you're working on something exciting in these areas!
 
+## 📝 Recent Blog Posts on AI and Cloud
 
-## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Agent2Agent &lpar;A2A&rpar; Protocol: Revolutionizing AI Collaboration](https://www.cloudefined.com/blog/googles-agent2agent-a2a-protocol-revolutionizing-ai-collaboration)
-- [Revolutionizing AI Development: The Impact of Model Context Protocol &lpar;MCP&rpar;](https://www.cloudefined.com/blog/revolutionizing-ai-development-the-impact-of-model-context-protocol-mcp)
+- [Google's Agent2Agent (A2A) Protocol: Revolutionizing AI Collaboration](https://www.cloudefined.com/blog/googles-agent2agent-a2a-protocol-revolutionizing-ai-collaboration)
+- [Revolutionizing AI Development: The Impact of Model Context Protocol (MCP)](https://www.cloudefined.com/blog/revolutionizing-ai-development-the-impact-of-model-context-protocol-mcp)
 - [7 Rules for Designing a Captivating Presentation](https://www.cloudefined.com/blog/7-rules-for-designing-a-captivating-presentation)
 - [High Scale Web Server With Kubernetes – Part II](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes-part-ii)
 - [High Scale Web Server With Kubernetes](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes)
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END -->
