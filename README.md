@@ -1,4 +1,4 @@
-# Hi there, I'm Pavel 👋🏻
+# Hi there, I'm pab1it0 👋🏻
 
 Welcome to my tech space where infrastructure meets AI! I'm passionate about bridging the gap between robust cloud architecture and emerging AI technologies.
 
@@ -19,13 +19,11 @@ I'm deeply excited about the future of AI agent collaboration and have been acti
 - **Agent2Agent (A2A)** - Exploring how multiple specialized AI agents can collaborate to solve complex problems
 - **Multi-modal AI interactions** - Creating systems where AI can process and respond to various data formats
 
-Check out my project [ADX MCP Server](https://github.com/pab1it0/adx-mcp-server) that connects AI assistants to Azure Data Explorer databases via the Model Context Protocol!
-
 ## 🛠️ What I Do
 
 I'm a full-stack developer turned DevOps engineer, helping tech companies architect their web platforms in the cloud and build automation in their operations. I specialize in:
 
-- Cloud-native architectures on AWS
+- Cloud-native architectures on AWS and Azure
 - Kubernetes orchestration
 - Infrastructure as Code with Terraform
 - Cybersecurity best practices
@@ -44,29 +42,30 @@ I'm a full-stack developer turned DevOps engineer, helping tech companies archit
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavelshklovsky/) or [Twitter](https://twitter.com/pab1it0)
 - ⚡ Fun fact: I prefer Zsh over Bash
 
-## 🧰 Languages and Tools
-
+## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="75" />  
 </div>
-
-## 📝 Recent Blog Posts on AI and Cloud
-
-<!-- BLOG-POST-LIST:START -->
-- [Google's Agent2Agent (A2A) Protocol: Revolutionizing AI Collaboration](https://www.cloudefined.com/blog/googles-agent2agent-a2a-protocol-revolutionizing-ai-collaboration)
-- [Revolutionizing AI Development: The Impact of Model Context Protocol (MCP)](https://www.cloudefined.com/blog/revolutionizing-ai-development-the-impact-of-model-context-protocol-mcp)
-- [7 Rules for Designing a Captivating Presentation](https://www.cloudefined.com/blog/7-rules-for-designing-a-captivating-presentation)
-- [High Scale Web Server With Kubernetes – Part II](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes-part-ii)
-- [High Scale Web Server With Kubernetes](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Open for Collaboration
 
@@ -77,3 +76,13 @@ I'm particularly interested in collaborating on projects related to:
 - Agent orchestration systems
 
 Reach out if you're working on something exciting in these areas!
+
+## 📝 Recent Blog Posts on AI and Cloud
+
+<!-- BLOG-POST-LIST:START -->
+- [Google's Agent2Agent (A2A) Protocol: Revolutionizing AI Collaboration](https://www.cloudefined.com/blog/googles-agent2agent-a2a-protocol-revolutionizing-ai-collaboration)
+- [Revolutionizing AI Development: The Impact of Model Context Protocol (MCP)](https://www.cloudefined.com/blog/revolutionizing-ai-development-the-impact-of-model-context-protocol-mcp)
+- [7 Rules for Designing a Captivating Presentation](https://www.cloudefined.com/blog/7-rules-for-designing-a-captivating-presentation)
+- [High Scale Web Server With Kubernetes – Part II](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes-part-ii)
+- [High Scale Web Server With Kubernetes](https://www.cloudefined.com/blog/high-scale-web-server-with-kubernetes)
+<!-- BLOG-POST-LIST:END -->
