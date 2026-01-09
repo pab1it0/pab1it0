@@ -4,8 +4,6 @@ Welcome to my little tech space 👋🏻
 
 **warning**: bugs ahead, caution is adviced! 🐞 🐜 🦟 🦗 🕷
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=pab1it0&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
